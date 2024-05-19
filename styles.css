@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+#main{
+    height: calc(90vh);
+    width: calc(80vw);
+}
+
+
+@media only screen and (max-width: 600px) {
+    #main{
+        height: 500px;
+        width: calc(80vw);
+    }
+    
+  }
