@@ -1,5 +1,3 @@
----
-
 # Cubic Bézier Curve Generator
 
 A simple cubic Bézier curve generator built using HTML, CSS, and JavaScript. This tool allows users to visualize and interact with cubic Bézier curves, providing an intuitive way to understand their properties and applications.
@@ -96,5 +94,3 @@ Contributions are welcome! Please follow these steps:
 ## References
 
 - [Bézier Curve - Wikipedia](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)
-
----
