@@ -24,7 +24,7 @@ const POINT_MID = { x: AXIS_WIDTH / 2, y: AXIS_LENGTH / 2, c: "black" }
 const POINT_MID_BOTTOM_LEFT = { x: ((AXIS_WIDTH / 2 + 10) / 2), y: ((AXIS_LENGTH / 2) + (AXIS_LENGTH - 10)) / 2, c: "black" }
 const POINT_MID_TOP_RIGHT = { x: ((AXIS_WIDTH / 2) + (AXIS_WIDTH - 10)) / 2, y: ((10) + (AXIS_LENGTH / 2)) / 2, c: "black" }
 
-const POINTRADIUS = 5;
+const POINTRADIUS = 10;
 const CURVEPOINTRADIUS = 2;
 
 let POINTS = [POINT_BOTTOMLEFT, POINT_TOPRIGHT, POINT_MID_BOTTOM_LEFT, POINT_MID_TOP_RIGHT]
