@@ -21,7 +21,7 @@ A simple cubic Bézier curve generator built using HTML, CSS, and JavaScript. Th
 
 ## Demo
 
-You can try the live demo [here](https://smil-thakur.github.io/Bezier-Curve/) (replace with your live demo link).
+You can try the live demo [here](https://smil-thakur.github.io/Bezier-Curve/).
 
 ## Installation
 
